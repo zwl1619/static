@@ -1,0 +1,35 @@
+{
+
+  "name": "traceur-compiler",
+  "filename": "traceur.js,BrowserSystem.js,bootstrap.js",
+  "version": "0.0.112",
+
+
+  "description": "ES6 to ES5 compiler",
+  "homepage": "https://github.com/google/traceur-compiler",
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "language",
+    "es5",
+    "es6",
+    "ES.next",
+    "harmony",
+    "compiler",
+    "transpiler"
+  ],
+  "maintainers": [
+    {
+      "name": "Traceur Authors",
+      "web": "https://groups.google.com/forum/#!forum/traceur-compiler-discuss",
+      "mail": "没找到"
+    }
+  ],
+  "repositories": [
+    {
+     
+      "type": "git",
+      "url": "https://github.com/google/traceur-compiler"
+    }
+  ]
+}
